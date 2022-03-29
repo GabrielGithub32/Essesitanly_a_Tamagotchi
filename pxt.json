@@ -1,5 +1,6 @@
 {
     "name": "tamagotchi?(KINDA)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
